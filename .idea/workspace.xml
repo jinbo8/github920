@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1160739-c48b-47ba-99de-7d42b98cd6ae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
     <configuration name="githubprint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="github920" />
@@ -27,5 +37,8 @@
         <item itemvalue="Python.githubprint" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
   </component>
 </project>
